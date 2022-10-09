@@ -31,9 +31,8 @@ result to standard out.
 
 Supported options:
 
-`-h` --- print help and exit;
-
-`-t` --- run tests before start;
+`-h` --- print help and exit;  
+`-t` --- run tests before start.  
 
 You can also run "example.my" to see simmple interpreter work:
 
