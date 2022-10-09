@@ -30,11 +30,13 @@ result to standard out.
 `Usage: ./interpreter [OPTIONS]`
 
 Supported options:
+
 `-h` --- print help and exit;
+
 `-t` --- run tests before start;
 
 You can also run "example.my" to see simmple interpreter work:
 
 `$ ./interpreter < example.my`
 
-If everything is OK, you will see "C++ love Mython" in the terminal.
+If everything is OK, you will see `C++ love Mython` in the terminal.
